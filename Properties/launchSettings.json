@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WeChatRedPacket (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WeChatRedPacket (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
